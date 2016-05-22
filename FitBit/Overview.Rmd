@@ -1,0 +1,9 @@
+---
+title: "Fitbit Data"
+author: "Chmavo"
+date: "May 22, 2016"
+output: html_document
+---
+
+Code to scrape the fitbit site for  intra-day HR data
+
